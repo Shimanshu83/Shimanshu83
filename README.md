@@ -42,5 +42,5 @@
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
 <p align="center">
-<a href="mailto:shimanshuyadav83@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-avsingh@umass.edu-blue?style=flat-square&logo=gmail"></a>
+<a href="mailto:shimanshuyadav83@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-shimanshuyadav83-blue?style=flat-square&logo=gmail"></a>
 </p>
